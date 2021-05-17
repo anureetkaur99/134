@@ -1,0 +1,24 @@
+From Audio:
+
+Under what scenarios is an index created automatically. Syntax for creating an index. What happens to all the constraints and indexes when you get rid of a table. When you are inserting into a table, you can provide the column information or just provide the actual values; what is the syntax for it. Various types of inserting values and its syntax. What does a NULL mean for actual data? How do you insert a NULL? What is the default date format in Oracle? What are some of the popular codes that we have been using to format date in Oracle? When do we use the Constraint key word? What is a primary key for? When you are looking at the number data type, you can have just plain number, number with one single argument that contains 1 number, or with 2 arguments, difference between the 2 arguments itself. What are we actually storing in the date data type. How do you delete and truncate; explain difference. Foreign key, why do you need it? Many to many relationships, one to many relationships, who gets the foreign key, how do you get rid of many to many relationships. Add, modify difference. How do you set a column to become unused, how to drop columns, rename columns? When inserting a record with an invalid value, what happens to the rest of the stuff that you are trying to add with it. Syntax of adding a brand-new column. Creating things at a table level vs column level. When is it a must to do it at a column level and table level? Which tables do you go to find the existing indexes, constraints, tables?
+
+Scratch notes while he was talking
+
+scantron 882E
+50 MC
+under what scanarios is an index created automatically
+syntax of index
+what happens to all the index and all constraints whent able is deleted
+syntax of values and their syntax
+nulls, how do u insert them? what does it mean for actual data
+default date format for date, what are the popular codes of dates we have beeen using
+when do we use the constraint keyword
+number with 1 argument, number with 2 arguments..whats the diff
+how do u delete vs truncate
+foreign key why do u need it
+one to many, many to many, who gets foreign
+add, modify, how do u rename columns, drop columns, unuse a column
+what happens when there is a violation on one of the values, what happens to the other values
+syntax of adding a Null, new column
+when should u create columns on table level vs column level
+to find constraints, which tables do u go to?
